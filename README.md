@@ -1,1 +1,1 @@
-# boostcourse-Study
+부스트코스 공부용 저장소입니다
