@@ -1,3 +1,4 @@
+<%--4-4. JSP 내장객체 --%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>

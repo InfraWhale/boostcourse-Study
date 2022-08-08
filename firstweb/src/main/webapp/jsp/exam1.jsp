@@ -1,3 +1,4 @@
+<%--4-3-1. JSP 선언문 --%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>

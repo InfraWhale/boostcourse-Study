@@ -1,3 +1,4 @@
+<%--4-1. JSP 들어가기 --%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%> <%--페이지 지시문 --%> 
 <!DOCTYPE html>

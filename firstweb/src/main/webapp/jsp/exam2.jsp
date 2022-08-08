@@ -1,3 +1,4 @@
+<%--4-3-2. JSP 스크립트릿 & 표현식 --%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
