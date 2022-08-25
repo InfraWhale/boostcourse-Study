@@ -1,0 +1,4 @@
+exam25 -> servlet 2.5 방식 실습
+exam31 -> servlet 3.1 방식 실습
+
+firstweb에 챕터 2 내용 대부분 들어가있음 + forward와 redirect도
